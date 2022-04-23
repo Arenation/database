@@ -1,0 +1,10 @@
+PGDMP                         z            dbf3s6d29k9u09     14.2 (Ubuntu 14.2-1.pgdg20.04+1)    14.2     ¿           0    0    ENCODING    ENCODING        SET client_encoding = 'UTF8';
+                      false            À           0    0 
+   STDSTRINGS 
+   STDSTRINGS     (   SET standard_conforming_strings = 'on';
+                      false            Á           0    0 
+   SEARCHPATH 
+   SEARCHPATH     8   SELECT pg_catalog.set_config('search_path', '', false);
+                      false            Â           1262     6819230    dbf3s6d29k9u09    DATABASE     e   CREATE DATABASE "dbf3s6d29k9u09" WITH TEMPLATE = template0 ENCODING = 'UTF8' LOCALE = 'es_ES.UTF-8';
+     DROP DATABASE "dbf3s6d29k9u09";
+                gpfwkjwmgbghgi    false           
